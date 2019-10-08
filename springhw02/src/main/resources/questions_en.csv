@@ -1,0 +1,5 @@
+Q[How does a scientific research call if it is related to exact scientific area?];A[monography,true];A[historiography,false];A[stenography,false];A[lithography,false]
+Q[Who did Vladimir compare the stewardess with in his song Moscow-Odessa?];A[with cat,false];A[with plane,false];A[with bird,false];A[with princess,true]
+Q[Near which mountain was the tanzanite gem first found?];A[Kilimanjaro,true];A[MacKinly,false];A[Angouka,false];A[Elbrus,false]
+Q[Which city is the capital of Aland Islands?];A[Turku,false];A[Stockholm,false];A[Marienhaim,true];A[Walleta,false];
+Q[What does a boxer do when producing a low hit?];A[Swing,false];A[Hook,false];A[Appercot,true];A[something else,false];
